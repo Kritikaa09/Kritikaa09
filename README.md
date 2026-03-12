@@ -83,11 +83,19 @@ Git • GitHub • VS Code • Jupyter • Streamlit • Firebase • Google Clo
 
 ---
 
+## ⚡ Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,firebase,git,github,vscode)
+
+---
+
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Kritikaa09\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritikaa09\&show_icons=true\&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritikaa09\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritikaa09\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kritikaa09\&theme=tokyonight)
 
 ---
 
@@ -105,10 +113,10 @@ Git • GitHub • VS Code • Jupyter • Streamlit • Firebase • Google Clo
 
 📧 Email: [kritikadadheech9@gmail.com](mailto:kritikadadheech9@gmail.com)
 
-💼 LinkedIn:
+💼 LinkedIn
 https://linkedin.com/in/kritika-dadheech9
 
-💻 GitHub:
+💻 GitHub
 https://github.com/Kritikaa09
 
 ---
