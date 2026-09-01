@@ -33,21 +33,6 @@ Python • Flask • TF-IDF • Cosine Similarity • LightFM
 
 ---
 
-### 🧠 MindCare AI
-
-Mental wellness companion system with journaling and reminders.
-
-**Tech Stack:**
-Python • Streamlit • Firebase
-
-**Features**
-
-* Mental health journaling
-* Automated reminders
-* Real-time user tracking
-
----
-
 ### 🌍 Wandersphere
 
 Travel web application discovering underrated destinations.
